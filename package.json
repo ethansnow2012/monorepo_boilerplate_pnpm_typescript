@@ -14,6 +14,6 @@
     "ts-node": "^10.9.2"
   },
   "scripts": {
-    "dev:app": "cd packages/app && pnpm run dev"
+    "dev:using_core": "cd packages/using_core && pnpm run dev"
   }
 }
